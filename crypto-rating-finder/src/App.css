@@ -1,0 +1,12 @@
+.main {
+    background-image: url("https://pixelplex.io/next/images/cryptocurrency-exchange-development/cryptocurrency-exchange-development-bg-1600.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
